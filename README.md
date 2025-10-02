@@ -76,6 +76,13 @@ Get help on using the tool:
 convert --help
 ```
 
+### Quick Demo
+
+Run the examples script to see all conversions in action:
+```bash
+python3 examples.py
+```
+
 ## Development
 
 ### Running Tests
